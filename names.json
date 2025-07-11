@@ -1194,5 +1194,82 @@
   "https://animethemes.moe/anime/kakkou_no_iinazuke_season_2/OP1": [
     "君がくれたもの | Kimi ga Kureta Mono {Asmi} (OP1) [뻐꾸기 커플 2]",
     "https://v.animethemes.moe/CuckoosS2-OP1.webm"
-  ]
+  ],
+  "https://animethemes.moe/anime/fermat_no_ryouri/OP1": [
+    "メイラード | Maillard {OSHIKIKEIGO} (OP1) [페르마의 요리]",
+    "https://v.animethemes.moe/FermatNoRyouri-OP1.webm"
+  ],
+  "fermat_no_ryouri": "페르마의 요리 | フェルマーの料理 | Fermat no Ryouri",
+  "https://animethemes.moe/anime/hotel_inhumans/ED1": [
+    "Merry Go Round {Noa} (ED1) [호텔 인휴먼즈]",
+    "https://v.animethemes.moe/HotelInhumans-ED1.webm"
+  ],
+  "hotel_inhumans": "호텔 인휴먼즈 | ホテル・インヒューマンズ | Hotel Inhumans",
+  "https://animethemes.moe/anime/fermat_no_ryouri/ED1": [
+    "Change Over {DXTEEN} (ED1) [페르마의 요리]",
+    "https://v.animethemes.moe/FermatNoRyouri-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/mikadono_sanshimai_wa_angai_choroi/ED1": [
+    "曖昧グラフィティ | Aimai Graffiti {Mikadono Kazuki (CV：Amami Yurina)} (ED1) [미카도노 세 자매는 의외로 쉽다]",
+    "https://v.animethemes.moe/Mikadono-ED1.webm"
+  ],
+  "mikadono_sanshimai_wa_angai_choroi": "미카도노 세 자매는 의외로 쉽다 | 帝乃三姉妹は案外, チョロい. | Mikadono Sanshimai wa Angai, Choroi.",
+  "https://animethemes.moe/anime/kizu_darake_seijo_yori_houfuku_wo_komete/OP1": [
+    "DiZZY {Washio Reina} (OP1) [상처투성이 성녀로부터 복수를 담아]",
+    "https://v.animethemes.moe/KizuDarakeSeijo-OP1.webm"
+  ],
+  "kizu_darake_seijo_yori_houfuku_wo_komete": "상처투성이 성녀로부터 복수를 담아 | 傷だらけ聖女より報復をこめて | Kizu darake Seijo yori Houfuku wo Komete",
+  "https://animethemes.moe/anime/hotel_inhumans/OP1": [
+    "ミスター・ムーンライト | Mr. Moonlight {imase} (OP1) [호텔 인휴먼즈]",
+    "https://v.animethemes.moe/HotelInhumans-OP1.webm"
+  ],
+  "https://animethemes.moe/anime/clevatess_majuu_no_ou_to_akago_to_shikabane_no_yuusha/OP1": [
+    "Ruler {Maeshima Mayu} (OP1) [클레바테스 -마수왕과 아기와 시체 용사-]",
+    "https://v.animethemes.moe/Clevatess-OP1.webm"
+  ],
+  "clevatess_majuu_no_ou_to_akago_to_shikabane_no_yuusha": "클레바테스 -마수왕과 아기와 시체 용사- | クレバテス-魔獣の王と赤子と屍の勇者- | Clevatess：Majuu no Ou to Akago to Shikabane no Yuusha",
+  "https://animethemes.moe/anime/clevatess_majuu_no_ou_to_akago_to_shikabane_no_yuusha/ED1": [
+    "Destiny {Ellie Goulding} (ED1) [클레바테스 -마수왕과 아기와 시체 용사-]",
+    "https://v.animethemes.moe/Clevatess-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/mikadono_sanshimai_wa_angai_choroi/OP1": [
+    "君にふさわしい奇跡 | Kimi ni Fusawashii Kiseki {MAISONdes, Rei} (OP1) [미카도노 세 자매는 의외로 쉽다]",
+    "https://v.animethemes.moe/Mikadono-OP1.webm"
+  ],
+  "https://animethemes.moe/anime/kizu_darake_seijo_yori_houfuku_wo_komete/ED1": [
+    "アビス | Abyss {Nonpy} (ED1) [상처투성이 성녀로부터 복수를 담아]",
+    "https://v.animethemes.moe/KizuDarakeSeijo-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/new_panty_stocking_with_garterbelt/ED1": [
+    "RECKLESS {Adee A., m-flo} (ED1) [NEW 팬티 & 스타킹 with 가터벨트]",
+    "https://v.animethemes.moe/PantyAndStockingWithGarterbeltS2-ED1.webm"
+  ],
+  "new_panty_stocking_with_garterbelt": "NEW 팬티 & 스타킹 with 가터벨트 | New PANTY & STOCKING with GARTERBELT",
+  "https://animethemes.moe/anime/osomatsusan_4th_season/ED1": [
+    "バディ | Buddy {Hitomi, Matsuno-ke 6 Kyoudai} (ED1) [오소마츠 6쌍둥이 4]",
+    "https://v.animethemes.moe/OsomatsuSanS4-ED1.webm"
+  ],
+  "osomatsusan_4th_season": "오소마츠 6쌍둥이 4 | おそ松さん | Osomatsu-san 4th Season",
+  "https://animethemes.moe/anime/tsuyokute_new_saga/ED1": [
+    "her {Coda Mahiru} (ED1) [강해져서 뉴 사가]",
+    "https://v.animethemes.moe/TsuyokuteNewSaga-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/necronomico_no_cosmic_horror_show/OP1": [
+    "確証論 | Kakushouron {Ryushen} (OP1) [네크로노미코의 코즈믹 호러 쇼]",
+    "https://v.animethemes.moe/Necronomico-OP1.webm"
+  ],
+  "necronomico_no_cosmic_horror_show": "네크로노미코의 코즈믹 호러 쇼 | ネクロノミ子のコズミックホラーショウ | Necronomico no Cosmic Horror Show",
+  "https://animethemes.moe/anime/necronomico_no_cosmic_horror_show/ED1": [
+    "PANDORA feat. Noa (from Colorful Peach) {Noa, Vell} (ED1) [네크로노미코의 코즈믹 호러 쇼]",
+    "https://v.animethemes.moe/Necronomico-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/osomatsusan_4th_season/OP1": [
+    "おそ松さんのボンバシェー! | Osomatsu-san no Bomba Sheeeh! {Da Pump} (OP1) [오소마츠 6쌍둥이 4]",
+    "https://v.animethemes.moe/OsomatsuSanS4-OP1.webm"
+  ],
+  "https://animethemes.moe/anime/tate_no_yuusha_no_nariagari_season_4/OP1": [
+    "Resolution {MADKID} (OP1) [방패 용사 성공담 4]",
+    "https://v.animethemes.moe/ShieldHeroS4-OP1.webm"
+  ],
+  "tate_no_yuusha_no_nariagari_season_4": "방패 용사 성공담 4 | 盾の勇者の成り上がり Season 4 | Tate no Yuusha no Nariagari Season 4"
 }
