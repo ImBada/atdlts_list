@@ -590,7 +590,7 @@
     "https://v.animethemes.moe/LodossTouSenki-OP1-EN.webm"
   ],
   "https://animethemes.moe/anime/a_rank_party_wo_ridatsu_shita_ore_wa_moto_oshiego_tachi_to_meikyuu_shinbu_wo_mezasu/ED3": [
-    "Tapestry {Yuki Tanaka} (ED3) [A랭크 파티를 이탈한 나는, 전 제자들과 미궁 심부를 목표로 한다.]",
+    "Tapestry {Tanaka Yuki} (ED3) [A랭크 파티를 이탈한 나는, 전 제자들과 미궁 심부를 목표로 한다.]",
     "https://v.animethemes.moe/Aparida-ED3.webm"
   ],
   "https://animethemes.moe/anime/mono/ED1v6": [
@@ -2855,5 +2855,179 @@
   "https://animethemes.moe/anime/yuusha_party_ni_kawaii_ko_ga_ita_no_de_kokuhaku_shitemita/ED1": [
     "キミ攻略ゲーム | Kimi Kouryaku Game {Oomiya Hiyori} (ED1) [용사 파티에 귀여운 애가 있어서, 고백해봤다.]",
     "https://v.animethemes.moe/YuuKawa-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/darwin_jihen/OP1": [
+    "Make Me Wonder {Official Hige Dandism} (OP1) [다윈 사변 | ダーウィン事変 | Darwin Jihen]",
+    "https://v.animethemes.moe/DarwinJihen-OP1.webm"
+  ],
+  "darwin_jihen": "다윈 사변 | ダーウィン事変 | Darwin Jihen",
+  "https://animethemes.moe/anime/cardfight_vanguard_divinez_genma_seisenhen/OP2": [
+    "ワールズエンドトリガー | World's End Trigger {Aoki Hina} (OP2) [카드파이트!! 뱅가드 Divinez 5 환진성전 편]",
+    "https://v.animethemes.moe/CardfightVanguardDivinezS5-OP2.webm"
+  ],
+  "cardfight_vanguard_divinez_genma_seisenhen": "카드파이트!! 뱅가드 Divinez 5 환진성전 편 | カードファイト!! ヴァンガード Divinez 幻真星戦編 | Cardfight!! Vanguard：Divinez Genma Seisen-hen",
+  "https://animethemes.moe/anime/mayonaka_heart_tune/OP1v2": [
+    "月に向かって撃て | Tsuki ni Mukatte Ute {Hoshimachi Suisei} (OP1v2) [한밤중 하트튠]",
+    "https://v.animethemes.moe/MayonakaHeartTune-OP1v2.webm"
+  ],
+  "https://animethemes.moe/anime/eris_no_seihai/OP1": [
+    "Happy Ever After feat. 由薫 | YU-KA {Washio Reina, YU-KA} (OP1) [에리스의 성배]",
+    "https://v.animethemes.moe/ErisNoSeihai-OP1.webm"
+  ],
+  "eris_no_seihai": "에리스의 성배 | エリスの聖杯 | Eris no Seihai",
+  "https://animethemes.moe/anime/golden_kamuy_saishuushou/OP1": [
+    "黄金の彼方 | Ougon no Kanata {ALI, Awich} (OP1) [골든 카무이 5 최종장]",
+    "https://v.animethemes.moe/GoldenKamuyS5-OP1.webm"
+  ],
+  "golden_kamuy_saishuushou": "골든 카무이 5 최종장 | ゴールデンカムイ 最終章 | Golden Kamuy：Saishuushou",
+  "https://animethemes.moe/anime/isekai_no_sata_wa_shachiku_shidai/OP1": [
+    "Magic {Kobore} (OP1) [이세계 사정은 사축 하기 나름]",
+    "https://v.animethemes.moe/IsekaiNoSataWaShachikuShidai-OP1.webm"
+  ],
+  "isekai_no_sata_wa_shachiku_shidai": "이세계 사정은 사축 하기 나름 | 異世界の沙汰は社畜次第 | Isekai no Sata wa Shachiku Shidai",
+  "https://animethemes.moe/anime/high_school_kimengumi_2026/OP1": [
+    "Funky Spice feat. TOMOO {BREIMEN, TOMOO} (OP1) [하이스쿨! 기면조 (2026)]",
+    "https://v.animethemes.moe/HighSchoolKimengumi2026-OP1.webm"
+  ],
+  "high_school_kimengumi_2026": "하이스쿨! 기면조 (2026) | ハイスクール! 奇面組 (2026) | High School! Kimengumi (2026)",
+  "https://animethemes.moe/anime/hikuidori/OP1": [
+    "はみだし御免 | Hamidashi Gomen {Porno Graffitti} (OP1) [Hikuidori]",
+    "https://v.animethemes.moe/Hikuidori-OP1.webm"
+  ],
+  "hikuidori": "화식조 우슈보로토비구미 | 火喰鳥 羽州ぼろ鳶組 | Hikuidori：Ushuu Boro Tobi-gumi",
+  "https://animethemes.moe/anime/jigoku_sensei_nube_2025_part_2/OP1": [
+    "ERASE {THE ORAL CIGARETTES} (OP1) [지옥선생 누베(2025) PART2]",
+    "https://v.animethemes.moe/JigokuSenseiNube2025Part2-OP1.webm"
+  ],
+  "jigoku_sensei_nube_2025_part_2": "지옥선생 누베(2025) PART2 | 地獄先生ぬ~べ~ (2025) | Jigoku Sensei Nube (2025)",
+  "https://animethemes.moe/anime/cardfight_vanguard_divinez_genma_seisenhen/OP1": [
+    "幻界 | Genkai {V.W.P} (OP1) [카드파이트!! 뱅가드 Divinez 5 환진성전 편]",
+    "https://v.animethemes.moe/CardfightVanguardDivinezS5-OP1.webm"
+  ],
+  "https://animethemes.moe/anime/yoroi_shinden_samurai_troopers/OP1": [
+    "YOAKE {Blank Paper} (OP1) [개진전 사무라이 트루퍼]",
+    "https://v.animethemes.moe/YoroiShindenSamuraiTroopers-OP1.webm"
+  ],
+  "yoroi_shinden_samurai_troopers": "개진전 사무라이 트루퍼 | 鎧真伝サムライトルーパー | Yoroi Shinden Samurai Troopers",
+  "https://animethemes.moe/anime/meitantei_precure/OP1": [
+    "ハートにヒント! 名探偵プリキュア! | Heart ni Hint! Meitantei Precure! {Ishii Ami} (OP1) [명탐정 프리큐어!]",
+    "https://v.animethemes.moe/MeitanteiPrecure-OP1.webm"
+  ],
+  "meitantei_precure": "명탐정 프리큐어! | 名探偵プリキュア! | Meitantei Precure!",
+  "https://animethemes.moe/anime/medalist_2nd_season/OP1": [
+    "Cold Night {Hana} (OP1) [메달리스트 2]",
+    "https://v.animethemes.moe/MedalistS2-OP1.webm"
+  ],
+  "medalist_2nd_season": "메달리스트 2 | メダリスト | Medalist",
+  "https://animethemes.moe/anime/eris_no_seihai/ED1": [
+    "カメリア | Camellia {Tamura Yukari} (ED1) [에리스의 성배]",
+    "https://v.animethemes.moe/ErisNoSeihai-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/omae_gotoki_ga_maou_ni_kateru_to_omou_na_to_yuusha_party_wo_tsuihou_sareta_node_outo_de_kimama_ni_kurashitai/ED1v4": [
+    "I need {Tanaka Yuki} (ED1v4) [\"너 따위가 마왕을 이길 수 있다고 생각하지 마\"라며 용사 파티에서 추방되었으니 왕도에서 멋대로 살고 싶다]",
+    "https://v.animethemes.moe/OmaGoto-ED1v4.webm"
+  ],
+  "https://animethemes.moe/anime/golden_kamuy_saishuushou/ED1": [
+    "The Ballad {Ken Yokoyama} (ED1) [골든 카무이 5 최종장]",
+    "https://v.animethemes.moe/GoldenKamuyS5-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/omae_gotoki_ga_maou_ni_kateru_to_omou_na_to_yuusha_party_wo_tsuihou_sareta_node_outo_de_kimama_ni_kurashitai/ED1v2": [
+    "I need {Tanaka Yuki} (ED1v2) [\"너 따위가 마왕을 이길 수 있다고 생각하지 마\"라며 용사 파티에서 추방되었으니 왕도에서 멋대로 살고 싶다]",
+    "https://v.animethemes.moe/OmaGoto-ED1v2.webm"
+  ],
+  "https://animethemes.moe/anime/enen_no_shouboutai_san_no_shou_part_2/ED2": [
+    "Speak of the Devil feat. Masato from coldrain {Masato from coldrain, Survive Said The Prophet} (ED2) [불꽃 소방대 3장 PART2]",
+    "https://v.animethemes.moe/EnenNoShouboutaiS3Part2-ED2.webm"
+  ],
+  "https://animethemes.moe/anime/omae_gotoki_ga_maou_ni_kateru_to_omou_na_to_yuusha_party_wo_tsuihou_sareta_node_outo_de_kimama_ni_kurashitai/ED1v3": [
+    "I need {Tanaka Yuki} (ED1v3) [\"너 따위가 마왕을 이길 수 있다고 생각하지 마\"라며 용사 파티에서 추방되었으니 왕도에서 멋대로 살고 싶다]",
+    "https://v.animethemes.moe/OmaGoto-ED1v3.webm"
+  ],
+  "https://animethemes.moe/anime/android_wa_keiken_ninzuu_ni_hairimasu_ka/ED1": [
+    "アンドロイドde新時代 | Android de Shin Jidai {Kurikoma Komaru} (ED1) [안드로이드는 경험인 수에 들어가나요??]",
+    "https://v.animethemes.moe/AndroidWaKeikenNinzuuNiHairimasuKa-ED1.webm"
+  ],
+  "android_wa_keiken_ninzuu_ni_hairimasu_ka": "안드로이드는 경험인 수에 들어가나요?? | アンドロイドは経験人数に入りますか?? | Android wa Keiken Ninzuu ni Hairimasu ka??",
+  "https://animethemes.moe/anime/enen_no_shouboutai_san_no_shou_part_2/ED1v2": [
+    "Speak of the Devil {Survive Said the Prophet} (ED1v2) [불꽃 소방대 3장 PART2]",
+    "https://v.animethemes.moe/EnenNoShouboutaiS3Part2-ED1v2.webm"
+  ],
+  "https://animethemes.moe/anime/darwin_jihen/ED1": [
+    "Turn It Up {A-ko} (ED1) [다윈 사변]",
+    "https://v.animethemes.moe/DarwinJihen-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/cardfight_vanguard_divinez_genma_seisenhen/ED1": [
+    "ギラギラ | Gira Gira {RealRomantic} (ED1) [카드파이트!! 뱅가드 Divinez 5 환진성전 편]",
+    "https://v.animethemes.moe/CardfightVanguardDivinezS5-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/meitantei_precure/ED1": [
+    "なぜ? 謎?! ANSWER | Naze? Nazo?! ANSWER {Kumada Akane, Masui Yuuka} (ED1) [명탐정 프리큐어!]",
+    "https://v.animethemes.moe/MeitanteiPrecure-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/jingai_kyoushitsu_no_ningengirai_kyoushi/ED2": [
+    "空の色 | Sora no Iro {Haneda Tobari (CV：Tanabe Rui)} (ED2) [인외 교실의 인간 혐오 교사]",
+    "https://v.animethemes.moe/JingaiKyoushitsu-ED2.webm"
+  ],
+  "https://animethemes.moe/anime/jigoku_sensei_nube_2025_part_2/ED1": [
+    "MAGICAL {Ayumu Imazu} (ED1) [지옥선생 누베(2025) PART2]",
+    "https://v.animethemes.moe/JigokuSenseiNube2025Part2-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/high_school_kimengumi_2026/ED1": [
+    "ステキッ!! | Suteki!! {Rikon Densetsu} (ED1) [하이스쿨! 기면조 (2026)]",
+    "https://v.animethemes.moe/HighSchoolKimengumi2026-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/ED1v2": [
+    "Make it {Oobuchi Nonoka} (ED1v2) [무사태평 영주의 즐거운 영지 방어 ~생산계 마법으로 이름 없는 마을을 최강의 성채 도시로~]",
+    "https://v.animethemes.moe/OkirakuRyoushu-ED1v2.webm"
+  ],
+  "https://animethemes.moe/anime/isekai_no_sata_wa_shachiku_shidai/ED1": [
+    "Back to Back {Morisaki Win} (ED1) [이세계 사정은 사축 하기 나름]",
+    "https://v.animethemes.moe/IsekaiNoSataWaShachikuShidai-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/himesama_goumon_no_jikan_desu_2nd_season/ED1v2": [
+    "お姫様にはなれない | Ohimesama ni wa Narenai {『Yuika』} (ED1v2) [공주님 \"고문\"의 시간입니다 2]",
+    "https://v.animethemes.moe/HimesamaGoumonS2-ED1v2.webm"
+  ],
+  "https://animethemes.moe/anime/jojo_no_kimyou_na_bouken_part_7_steel_ball_run/ED1": [
+    "Dance with STEEL BALL RUN {Kanno Yugo} (ED1) [스틸 볼 런：죠죠의 기묘한 모험]",
+    "https://v.animethemes.moe/JojoNoKimyouNaBoukenS7-ED1.webm"
+  ],
+  "jojo_no_kimyou_na_bouken_part_7_steel_ball_run": "스틸 볼 런：죠죠의 기묘한 모험| スティール・ボール・ラン ジョジョの奇妙な冒険 | STEEL BALL RUN JoJo's Bizarre Adventure",
+  "https://animethemes.moe/anime/hikuidori/ED1": [
+    "陽炎 | Kagerou {Ooizumi You} (ED1) [화식조 우슈보로토비구미]",
+    "https://v.animethemes.moe/Hikuidori-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/medalist_2nd_season/ED1": [
+    "Rookies {Conton Candy} (ED1) [메달리스트 2]",
+    "https://v.animethemes.moe/MedalistS2-ED1.webm"
+  ],
+  "https://animethemes.moe/anime/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/ED1v5": [
+    "Make it {Oobuchi Nonoka} (ED1v5) [무사태평 영주의 즐거운 영지 방어 ~생산계 마법으로 이름 없는 마을을 최강의 성채 도시로~]",
+    "https://v.animethemes.moe/OkirakuRyoushu-ED1v5.webm"
+  ],
+  "https://animethemes.moe/anime/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/ED1v3": [
+    "Make it {Oobuchi Nonoka} (ED1v3) [무사태평 영주의 즐거운 영지 방어 ~생산계 마법으로 이름 없는 마을을 최강의 성채 도시로~]",
+    "https://v.animethemes.moe/OkirakuRyoushu-ED1v3.webm"
+  ],
+  "https://animethemes.moe/anime/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/ED1v4": [
+    "Make it {Oobuchi Nonoka} (ED1v4) [무사태평 영주의 즐거운 영지 방어 ~생산계 마법으로 이름 없는 마을을 최강의 성채 도시로~]",
+    "https://v.animethemes.moe/OkirakuRyoushu-ED1v4.webm"
+  ],
+  "https://animethemes.moe/anime/okiraku_ryoushu_no_tanoshii_ryouchi_bouei/ED2": [
+    "Magic Clock {Oobuchi Nonoka} (ED2) [무사태평 영주의 즐거운 영지 방어 ~생산계 마법으로 이름 없는 마을을 최강의 성채 도시로~]",
+    "https://v.animethemes.moe/OkirakuRyoushu-ED2.webm"
+  ],
+  "https://animethemes.moe/anime/yuusha_party_ni_kawaii_ko_ga_ita_no_de_kokuhaku_shitemita/ED2": [
+    "YES！サマーラブ♡ | YES! Summer Love♡ {Misaki (CV：Ozawa Aimi(≒JOY)), Happiness (CV：Noguchi Iori(=LOVE)), Shike (CV：Sakurai Momo(≠ME))} (ED2) [용사 파티에 귀여운 애가 있어서, 고백해봤다.]",
+    "https://v.animethemes.moe/YuuKawa-ED2.webm"
+  ],
+  "https://animethemes.moe/anime/yami_shibai_16/ED1": [
+    "マスカレイドナイト | Masquerade Night {yosugala} (ED1) [야미시바이 16]",
+    "https://v.animethemes.moe/YamiShibaiS16-ED1.webm"
+  ],
+  "yami_shibai_16": "야미시바이 16 | 闇芝居 | Yami Shibai",
+  "https://animethemes.moe/anime/yoroi_shinden_samurai_troopers/ED1": [
+    "POWER {One or Eight} (ED1) [개진전 사무라이 트루퍼]",
+    "https://v.animethemes.moe/YoroiShindenSamuraiTroopers-ED1.webm"
   ]
 }
